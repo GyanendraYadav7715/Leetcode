@@ -1,4 +1,4 @@
-# Codeforces Solutions Repository
+# Leetcode Solutions Repository
 
 This repository contains my solutions to various **Leetcode problems**.  
 Each entry includes:
@@ -40,6 +40,7 @@ Problems are organized by **contest number** and **problem code** (e.g., `A`, `B
 | Problmes | Problem Name | Problem Link | Solution |
 |---------|---------|--------------|----------|
 | 7  |Reverse Integer | [View Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution]((7)Reverse_Integer/Solution.java)|
+| 2  |Add Two Numbers | [View Problem](https://leetcode.com/problems/add-two-numbers/description/) | [Solution]((2)/Solution.java)|
 
 ---
 
